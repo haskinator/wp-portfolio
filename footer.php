@@ -4,13 +4,11 @@
                         <section class="contact">
                                 <div class="contact-info">
                                         <p class="contact-text">Want to work together? Drop me an email.</p>
-                                        <a class="contact-email link-icon" href="#">hi@benova.me<img class="icon-img" src="wp-content/themes/portfolio/arrow-right.svg"></a>
+                                        <a class="contact-email link-icon" href="#">hi@zuzana.be<img class="icon-img" src="wp-content/themes/portfolio/arrow-right.svg"></a>
                                 </div>
                                 <div class="contact-socials">
-                                        <a href="#" class='link-icon'>LinkedIn<img src="wp-content/themes/portfolio/arrow-up-right.svg" class="icon-img"></a>
-                                        <a href="#" class='link-icon'>Spotify<img src="wp-content/themes/portfolio/arrow-up-right.svg" class="icon-img"></a>
-                                        <a href="#" class='link-icon'>Github<img src="wp-content/themes/portfolio/arrow-up-right.svg" class="icon-img"></a>
-                                        <a href="#" class='link-icon'>CV<img src="wp-content/themes/portfolio/arrow-down.svg" class="icon-img"></a>
+                                        <a href="https://www.linkedin.com/in/zuzana-be%C5%88ov%C3%A1-b70558116/" class='link-icon'>LinkedIn<img src="wp-content/themes/portfolio/arrow-up-right.svg" class="icon-img"></a>
+                                        <a href="https://github.com/haskinator" class='link-icon'>Github<img src="wp-content/themes/portfolio/arrow-up-right.svg" class="icon-img"></a>
                                 </div>
                         </section>
                 </div>
