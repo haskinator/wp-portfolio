@@ -119,6 +119,10 @@ h3 {
     padding-left: 24px;
 }
 
+.menu-option:hover {
+    cursor: pointer;
+}
+
 .home {
     font-size: 18px;
 }
